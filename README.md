@@ -6,7 +6,7 @@ O objetivo deste projeto foi colocar em prática meus conhecimentos em html e cs
 | -------------  | --- |
 | :sparkles: Thallyson        | **Bosque Jardim Centauro**
 | :label: Tecnologias | html, css
-| :rocket: URL do projeto        | https://thallysonss.github.io/bosque-jardim-centauro/
+| :rocket: URL do projeto        | https://github.com/AmandAGstz/agrinhoo
 
 
 ![Capturar](https://github.com/ThallysonSS/bosque-jardim-centauro/assets/127949499/2a574416-d584-4946-abfd-565b8d3abe4e)
