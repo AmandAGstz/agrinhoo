@@ -1,6 +1,6 @@
-# Site Bosque Jardim Centauro
+# Site explicativo do projeot de app de organização
 
-O objetivo deste projeto foi realizar o projeto da escola
+O objetivo deste projeto foi realizar o projeto da escola, um site que venha facilitar no planejamento de criacao do Aplicativo de organização.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
